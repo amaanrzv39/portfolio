@@ -1,6 +1,8 @@
-# Hi there! 👋
+# Amaan Rizvi
 
-Welcome to my GitHub profile! Here you’ll find a snapshot of my skills, educational background, professional projects, and academic contributions. 
+I’m a passionate **Machine Learning Engineer** with a knack for solving complex problems through data-driven insights and AI-powered solutions. My expertise lies in building robust machine learning models, designing scalable architectures, and deploying cutting-edge solutions.
+
+💡 I believe in the power of collaboration, learning, and experimentation. Whether it’s tackling real-world challenges or exploring the latest advancements in AI, I’m always up for exciting conversations and opportunities to make a difference.  
 
 ---
 
@@ -20,20 +22,18 @@ Welcome to my GitHub profile! Here you’ll find a snapshot of my skills, educat
 
 ## 🎓 Educational Background
 
-- **Master's Degree in [Your Specialization]** 
-  - [Your University Name], [Graduation Year]
-  - Relevant Coursework: [List Key Courses]
-- **Bachelor's Degree in [Your Specialization]**
-  - [Your University Name], [Graduation Year]
-  - Relevant Coursework: [List Key Courses]
+- **Master's Degree in Artificial Intelligence** 
+  - National Institute of Technology - Agartala
+- **Bachelor's Degree in CSE**
+  - LPU
 
 ---
+# My Work
 
-## 💼 Projects
+## Computer Vision
 
 ### 1. **Water-Filled Pothole Detection**
-   - **Description**: Developed a robust pothole detection system leveraging YOLOv8 to identify and classify water-filled potholes. This project aimed to enhance road safety by providing actionable insights to authorities.
-   - **Technologies**: YOLOv8, Python, OpenCV
+   - Developed a robust pothole detection system leveraging YOLOv8 to identify and classify water-filled potholes. This project aimed to enhance road safety by providing actionable insights to authorities.
    - **GitHub Repo**: [Water-Filled Pothole Detection](https://github.com/amaanrzv39/Pothole-detection)
 
 ### 2. **Project Name**
@@ -41,7 +41,8 @@ Welcome to my GitHub profile! Here you’ll find a snapshot of my skills, educat
    - **Technologies**: [Key Technologies]
    - **GitHub Repo**: [Project Name](https://github.com/your_username/project-name)
 
-### 3. **Project Name**
+## Natural Language Processing
+### 1. **Project Name**
    - **Description**: [Brief Description of the Project]
    - **Technologies**: [Key Technologies]
    - **GitHub Repo**: [Project Name](https://github.com/your_username/project-name)

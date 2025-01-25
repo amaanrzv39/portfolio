@@ -34,7 +34,7 @@ Welcome to my GitHub profile! Here you’ll find a snapshot of my skills, educat
 ### 1. **Water-Filled Pothole Detection**
    - **Description**: Developed a robust pothole detection system leveraging YOLOv8 to identify and classify water-filled potholes. This project aimed to enhance road safety by providing actionable insights to authorities.
    - **Technologies**: YOLOv8, Python, OpenCV
-   - **GitHub Repo**: [Water-Filled Pothole Detection](https://github.com/your_username/water-filled-pothole-detection)
+   - **GitHub Repo**: [Water-Filled Pothole Detection](https://github.com/amaanrzv39/Pothole-detection)
 
 ### 2. **Project Name**
    - **Description**: [Brief Description of the Project]

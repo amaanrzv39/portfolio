@@ -16,17 +16,24 @@ I’m a passionate **Machine Learning Engineer** with a knack for solving comple
 ---
 # My Work
 
-## Computer Vision
-<a href="https://github.com/amaanrzv39/Pothole-detection">
-  <img src="https://github.com/user-attachments/assets/d9ce783d-0e17-4252-a85b-0817cc9bf57b" alt="Water-Filled Pothole Detection" width="300">
-</a>
+### _Computer Vision_
 
-Developed a robust pothole detection system leveraging YOLOv8 to identify and classify water-filled potholes. This project aimed to enhance road safety by providing actionable insights to authorities.
+<img src="https://github.com/user-attachments/assets/d9ce783d-0e17-4252-a85b-0817cc9bf57b"  width="500">
 
-### 2. **Project Name**
-   - **Description**: [Brief Description of the Project]
-   - **Technologies**: [Key Technologies]
-   - **GitHub Repo**: [Project Name](https://github.com/your_username/project-name)
+## <span style="color:blue">**Watermasked Pothole Detection**</span>
+Revolutionizing road safety with a cutting-edge pothole detection system powered by YOLOv8. This project identifies and classifies water-filled potholes in real-time, offering actionable insights for smarter infrastructure management.\
+[Explore the Project →](https://github.com/amaanrzv39/Pothole-detection)
+
+<br/>
+
+<img src="https://github.com/user-attachments/assets/d9ce783d-0e17-4252-a85b-0817cc9bf57b"  width="500">
+
+## <span style="color:blue">**Caption Generation**</span>
+Designed a state-of-the-art model leveraging transformer architecture to generate rich, context-aware captions for images. This project bridges the gap between computer vision and natural language processing, showcasing the potential of AI to interpret visual content in human-like language.\
+[Explore the Project →](https://github.com/amaanrzv39/Pothole-detection)
+
+<br/>
+
 ---
 ## Natural Language Processing
 ### 1. **Project Name**

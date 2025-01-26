@@ -18,8 +18,9 @@ I’m a passionate **Machine Learning Engineer** with a knack for solving comple
 
 ## Computer Vision
 <a href="https://github.com/amaanrzv39/Pothole-detection">
-  <img src="https://github.com/user-attachments/assets/d9ce783d-0e17-4252-a85b-0817cc9bf57b" alt="Water-Filled Pothole Detection" width="150">
+  <img src="https://github.com/user-attachments/assets/d9ce783d-0e17-4252-a85b-0817cc9bf57b" alt="Water-Filled Pothole Detection" width="300">
 </a>
+
 Developed a robust pothole detection system leveraging YOLOv8 to identify and classify water-filled potholes. This project aimed to enhance road safety by providing actionable insights to authorities.
 
 ### 2. **Project Name**

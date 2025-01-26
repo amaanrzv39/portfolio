@@ -6,10 +6,10 @@ I’m a passionate **Machine Learning Engineer** with a knack for solving comple
 
 ## 🎓 Education
 
-- **Master's Degree in Artificial Intelligence** 
+- **M.Tech Artificial Intelligence** 
   - National Institute of Technology - Agartala
-- **Bachelor's Degree in CSE**
-  - LPU
+- **B.Tech CSE**
+  - LPU 
 
 ---
 # 🧑‍💻 My Work

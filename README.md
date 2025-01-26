@@ -1,6 +1,6 @@
 # **About Me**
 
-I’m a passionate **Machine Learning Engineer** with a knack for solving complex problems through data-driven insights and AI-powered solutions. My expertise lies in building robust machine learning models, designing scalable architectures, and deploying cutting-edge solutions. I believe in the power of collaboration, learning, and experimentation. Whether it’s tackling real-world challenges or exploring the latest advancements in AI, I’m always up for exciting conversations and opportunities to make a difference.  
+I’m a passionate **Machine Learning Engineer** with a knack for solving complex problems through data-driven insights and AI-powered solutions. My expertise lies in building robust machine learning models, designing scalable architectures, and deploying cutting-edge solutions. Whether it’s tackling real-world challenges or exploring the latest advancements in AI, I’m always up for exciting conversations and opportunities to make a difference.  
 
 ---
 

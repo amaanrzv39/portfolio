@@ -20,7 +20,7 @@ Revolutionizing road safety with a cutting-edge pothole detection system powered
 
 ## **Caption Generation**
 Designed a state-of-the-art model leveraging transformer architecture to generate rich, context-aware captions for images. This project bridges the gap between computer vision and natural language processing, showcasing the potential of AI to interpret visual content in human-like language.\
-[Explore the Project →](https://github.com/amaanrzv39/Pothole-detection)
+[Explore the Project →](https://github.com/amaanrzv39/Caption-Generation)
 
 <br/>
 
@@ -28,7 +28,7 @@ Designed a state-of-the-art model leveraging transformer architecture to generat
 
 ## **Object Tracking with DeepSORT**
 A high-performance object tracking system that seamlessly integrates DeepSORT and YOLO for precise, real-time tracking in dynamic environments. Perfect for applications in surveillance, autonomous vehicles, and video analytics.\
-[Explore the Project →](https://github.com/amaanrzv39/Pothole-detection)
+[Explore the Project →](https://github.com/amaanrzv39/Object-Tracking-DeepSort)
 
 <br/>
 
@@ -36,7 +36,7 @@ A high-performance object tracking system that seamlessly integrates DeepSORT an
 
 ## **Building OCR from Scratch**
 Developed a powerful Optical Character Recognition (OCR) system from the ground up, leveraging Convolutional Neural Networks (CNNs) for feature extraction and BiLSTM for sequential text decoding. Designed to deliver accurate text recognition across diverse fonts and layouts, this project showcases expertise in deep learning and end-to-end solution development.\
-[Explore the Project →](https://github.com/amaanrzv39/Pothole-detection)
+[Explore the Project →](https://github.com/amaanrzv39/OCR-from-Scratch)
 
 
 ---

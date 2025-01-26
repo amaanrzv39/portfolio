@@ -16,30 +16,45 @@ I’m a passionate **Machine Learning Engineer** with a knack for solving comple
 ---
 # My Work
 
-### _Computer Vision_
+### Computer Vision
 
-<img src="https://github.com/user-attachments/assets/d9ce783d-0e17-4252-a85b-0817cc9bf57b"  width="500">
+<img src="https://github.com/user-attachments/assets/a6a90b17-1c90-4ff2-a8b3-11bc5c9fcf97"  width="500">
 
-## <span style="color:blue">**Watermasked Pothole Detection**</span>
+## **Watermasked Pothole Detection**
 Revolutionizing road safety with a cutting-edge pothole detection system powered by YOLOv8. This project identifies and classifies water-filled potholes in real-time, offering actionable insights for smarter infrastructure management.\
 [Explore the Project →](https://github.com/amaanrzv39/Pothole-detection)
 
 <br/>
 
-<img src="https://github.com/user-attachments/assets/d9ce783d-0e17-4252-a85b-0817cc9bf57b"  width="500">
+<img src="https://github.com/user-attachments/assets/a87a6e84-8c7e-4205-9fd6-d54d12bffed1" width="500">
 
-## <span style="color:blue">**Caption Generation**</span>
+## **Caption Generation**
 Designed a state-of-the-art model leveraging transformer architecture to generate rich, context-aware captions for images. This project bridges the gap between computer vision and natural language processing, showcasing the potential of AI to interpret visual content in human-like language.\
 [Explore the Project →](https://github.com/amaanrzv39/Pothole-detection)
 
 <br/>
 
+<img src="https://github.com/user-attachments/assets/4b4beabd-825e-4762-b70d-b6809eaaaca2"  width="500">
+
+## **Object Tracking with DeepSORT**
+A high-performance multi-object tracking system that seamlessly integrates DeepSORT and YOLO for precise, real-time tracking in dynamic environments. Perfect for applications in surveillance, autonomous vehicles, and video analytics.\
+[Explore the Project →](https://github.com/amaanrzv39/Pothole-detection)
+
+<br/>
+
+<img src="https://github.com/user-attachments/assets/b6efc881-5a6e-4ccd-b87f-0da8422ca9d0"  width="500">
+
+## **Building OCR from Scratch**
+Developed a powerful Optical Character Recognition (OCR) system from the ground up, leveraging Convolutional Neural Networks (CNNs) for feature extraction and BiLSTM for sequential text decoding. Designed to deliver accurate text recognition across diverse fonts and layouts, this project showcases expertise in deep learning and end-to-end solution development.\
+[Explore the Project →](https://github.com/amaanrzv39/Pothole-detection)
+
+
 ---
-## Natural Language Processing
-### 1. **Project Name**
-   - **Description**: [Brief Description of the Project]
-   - **Technologies**: [Key Technologies]
-   - **GitHub Repo**: [Project Name](https://github.com/your_username/project-name)
+
+### Natural Language Processing
+## **Building OCR from Scratch**
+Developed a powerful Optical Character Recognition (OCR) system from the ground up, leveraging Convolutional Neural Networks (CNNs) for feature extraction and BiLSTM for sequential text decoding. Designed to deliver accurate text recognition across diverse fonts and layouts, this project showcases expertise in deep learning and end-to-end solution development.\
+[Explore the Project →](https://github.com/amaanrzv39/Pothole-detection)
 
 *Feel free to explore my GitHub repositories for more projects!* 
 

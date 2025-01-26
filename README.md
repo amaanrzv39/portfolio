@@ -4,14 +4,6 @@ I’m a passionate **Machine Learning Engineer** with a knack for solving comple
 
 ---
 
-## 🎓 Education
-
-- **M.Tech Artificial Intelligence** 
-  - National Institute of Technology - Agartala
-- **B.Tech CSE**
-  - LPU 
-
----
 # 🧑‍💻 My Work
 
 ### Computer Vision
@@ -97,6 +89,15 @@ This project showcases the fine-tuning of OpenAI's Whisper model to create a cus
 1. Amaan Rizvi, Anupam Jamatia, Dwijen Rudrapal, Kunal Chakma, and Björn Gambäck. 2023. Cross-Lingual Speaker Identification for Indian Languages. In Proceedings of the 14th International Conference on Recent Advances in Natural Language Processing, pages 979–987, Varna, Bulgaria. INCOMA Ltd., Shoumen, Bulgaria.
 
 2. A. Rizvi, A. Jamatia, NIT-Agartala-NLP-Team at EXIST 2022: Sexism identification in social networks, in: Proceedings of the Iberian Languages Evaluation Forum (IberLEF), volume Vol-3202, A Coruña, Spain, 2022. URL: http://ceur-ws.org/Vol-3202/. doi:urn:nbn: de:0074-3202-9.
+
+---
+
+## 🎓 Education
+
+- **M.Tech Artificial Intelligence** 
+  - National Institute of Technology - Agartala
+- **B.Tech CSE**
+  - LPU 
 
 ---
 

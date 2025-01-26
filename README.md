@@ -19,7 +19,7 @@ I’m a passionate **Machine Learning Engineer** with a knack for solving comple
 <img src="https://github.com/user-attachments/assets/a6a90b17-1c90-4ff2-a8b3-11bc5c9fcf97"  width="500">
 
 ## **Watermasked Pothole Detection**
-Revolutionizing road safety with a cutting-edge pothole detection system powered by YOLOv8. This project identifies and classifies water-filled potholes in real-time, offering actionable insights for smarter infrastructure management.\
+Revolutionizing road safety with a cutting-edge pothole detection system powered by YOLOv8. This project identifies and classifies water-filled potholes in real-time, offering actionable insights for driver assistance.\
 [Explore the Project →](https://github.com/amaanrzv39/Pothole-detection)
 
 <br/>
@@ -35,7 +35,7 @@ Designed a state-of-the-art model leveraging transformer architecture to generat
 <img src="https://github.com/user-attachments/assets/4b4beabd-825e-4762-b70d-b6809eaaaca2"  width="500">
 
 ## **Object Tracking with DeepSORT**
-A high-performance multi-object tracking system that seamlessly integrates DeepSORT and YOLO for precise, real-time tracking in dynamic environments. Perfect for applications in surveillance, autonomous vehicles, and video analytics.\
+A high-performance object tracking system that seamlessly integrates DeepSORT and YOLO for precise, real-time tracking in dynamic environments. Perfect for applications in surveillance, autonomous vehicles, and video analytics.\
 [Explore the Project →](https://github.com/amaanrzv39/Pothole-detection)
 
 <br/>

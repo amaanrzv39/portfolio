@@ -46,7 +46,7 @@ Developed a powerful Optical Character Recognition (OCR) system from the ground 
 
 ## **NER Using Transformers**
 Unlock the power of Transformer-based models for advanced Named Entity Recognition. In this project I build a state-of-the-art language model  using transformer architecture to accurately identify and classify entities such as names, locations, dates, and more in text. With cutting-edge performance on complex datasets, this project demonstrates how Transformers can elevate NER tasks, providing efficient and scalable solutions for real-world applications.\
-[Explore the Project →]
+[Explore the Project →](https://github.com/amaanrzv39/NER-Transformers.git)
 
 <br/>
 
@@ -54,7 +54,7 @@ Unlock the power of Transformer-based models for advanced Named Entity Recogniti
 
 ## **Text Summarization with Transformers**
 Transform lengthy documents into concise, coherent summaries with BART, a powerful Transformer-based model. This project utilizes BART’s advanced architecture to generate high-quality abstractive summaries that preserve key information, making it ideal for applications in news aggregation, research, and content summarization. See how BART’s exceptional performance in natural language generation can streamline information extraction and processing.\
-[Explore the Project →]
+[Explore the Project →](https://github.com/amaanrzv39/Text-summarisation.git)
 
 <br/>
 

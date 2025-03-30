@@ -78,7 +78,7 @@ Where cutting-edge NLP meets scalable backend design! This project integrates re
 
 ## **Finetuning OpenAI Whisper model**
 This project showcases the fine-tuning of OpenAI's Whisper model to create a custom speech recognition solution tailored to specific languages, accents, or domains. By optimizing Whisper for specialized datasets, it delivers precise transcriptions even in challenging audio conditions. Dive into the repository to explore cutting-edge techniques for enhancing ASR performance and unlocking the full potential of Whisper!\
-[Explore the Project →]
+[Explore the Project →](https://github.com/amaanrzv39/finetune-whisper.git)
 
 *Feel free to explore my GitHub repositories for more projects!* 
 
